@@ -6,5 +6,5 @@ entry_points:
   main:
     parameters:
       n_clusters: {type: int, default: 3}
-      input_data: {type: string, default: "data/processed_data.csv"}
+      input_data: {type: string, default: "IndonesiaWorkfare_preprocessing.csv"}
     command: "python modelling.py --n_clusters {n_clusters} --input_data {input_data}"
