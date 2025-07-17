@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Clustering-CI/Clustering-CI/mlruns/0/3414569a58a940f0af2deb74874814f7/artifacts
+end_time: 1752731547793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3414569a58a940f0af2deb74874814f7
+run_name: bittersweet-mule-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752731543456
+status: 3
+tags: []
+user_id: runner

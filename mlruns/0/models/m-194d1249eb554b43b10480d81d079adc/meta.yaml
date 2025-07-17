@@ -1,0 +1,10 @@
+artifact_location: file:///home/runner/work/Clustering-CI/Clustering-CI/mlruns/0/models/m-194d1249eb554b43b10480d81d079adc/artifacts
+creation_timestamp: 1752731545224
+experiment_id: '0'
+last_updated_timestamp: 1752731547520
+model_id: m-194d1249eb554b43b10480d81d079adc
+model_type: null
+name: model
+source_run_id: 3414569a58a940f0af2deb74874814f7
+status: 2
+status_message: null
